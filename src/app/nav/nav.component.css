@@ -1,0 +1,25 @@
+
+  a{
+    color: blue;
+  }
+ input{
+
+   color: blue;
+   
+  }
+   
+  a:hover{
+    background-color:rosybrown;
+ }
+ button{
+ 
+  background-color:darkviolet;
+  color: #333;
+ }
+ button:hover{
+  background-color: #eaeaea;
+}
+
+
+ 
+  
